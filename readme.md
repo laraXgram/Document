@@ -14,7 +14,7 @@ composer create-project laraxgram/laragram:v1.10.x-dev@dev my-bot
 
 # ⭐ Features & 📙 Document/blob/v1.10 :
 ### [Config](https://github.com/laraXgram/Document/blob/v1.10/config.md)
-- [ENV](https://github.com/laraXgram/Document/blob/v1.10/blob/v1.10/config.md#env)
+- [ENV](https://github.com/laraXgram/Document/blob/v1.10/config.md#env)
 - [AutoLoader](https://github.com/laraXgram/Document/blob/v1.10/config.md#AutoLoader)
 - [SetWebhook](https://github.com/laraXgram/Document/blob/v1.10/config.md#SetWebhook)
 ---
