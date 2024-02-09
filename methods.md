@@ -126,7 +126,7 @@ $bot->onText(['hello', 'hay'], function(){
 });
 ```
 
-* Change Request Method
+### Change Request Method
 
   ##### Constant
 
