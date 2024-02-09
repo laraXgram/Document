@@ -13,4 +13,4 @@ Versions currently supported with security updates.
 | 1.10.0 < | :x:                |
 | 1.10.1   | :white_check_mark: |
 ---
-### [⬅️ Return to home](https://github.com/laraXgram/Document/readme.md)
+### [⬅️⬅️ Return to home](https://github.com/laraXgram/Document/blob/v1.10/readme.md)

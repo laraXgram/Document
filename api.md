@@ -40,4 +40,4 @@ $api->api('DateTime@time', 'iran');
 api('DateTime@time', 'iran')
 ```
 ---
-### [⬅️ Return to home](https://github.com/laraXgram/Document/readme.md)
+### [⬅️ Return to home](https://github.com/laraXgram/Document/blob/v1.10/readme.md)
