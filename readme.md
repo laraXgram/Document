@@ -72,7 +72,7 @@ composer create-project laraxgram/laragram:v1.10.x-dev@dev my-bot
 - [Timer Class](https://github.com/laraXgram/Document/blob/v1.10/helpers.md#timer)
 - [Assets](https://github.com/laraXgram/Document/blob/v1.10/helpers.md#assets)
 ---
-# [🚨 Support](https://github.com/laraXgram/Document/blob/v1.10/supports.md)
+# [🚨 Support](https://github.com/laraXgram/Document/blob/v1.10/support.md)
 
 ###### Version 1.10.1
 

@@ -13,7 +13,7 @@ php laragram remove:api ApiName
 2. Open the created file ( path: **App/Controller/Api** )
 3. Start writing
 
-* API Controller
+### Controller
 ```php
 namespace Bot\App\Controller\Api;
 
@@ -28,7 +28,7 @@ class DateTime extends RegisterApi
 }
 ```
 
-* Use Api In Resource File :
+### Usage
 ```php
 $api = new Api();
 
