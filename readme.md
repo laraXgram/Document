@@ -29,7 +29,7 @@ composer create-project laraxgram/laragram:v1.10.x-dev@dev my-bot
 - [Manage Resources](https://github.com/laraXgram/Document/blob/v1.10/commands.md#manage-resource)
 - [Manage Webhook](https://github.com/laraXgram/Document/blob/v1.10/commands.md#manage-webhook)
 - [Manage Dependency](https://github.com/laraXgram/Document/blob/v1.10/commands.md#manage-dependency)
-- [Manage Api](https://github.com/laraXgram/Document/blob/v1.10/commands.md#manage-api-coontroller)
+- [Manage Api](https://github.com/laraXgram/Document/blob/v1.10/commands.md#manage-api-controller)
 - [Manage Models](https://github.com/laraXgram/Document/blob/v1.10/commands.md#manage-model)
 - [Manage Migrations](https://github.com/laraXgram/Document/blob/v1.10/commands.md#manage-migrations)
 - [Manage WebServer](https://github.com/laraXgram/Document/blob/v1.10/commands.md#webserver)
