@@ -143,7 +143,7 @@ removeRole()
 * Set User Level
 
 ```php
-Role::setLevel(string|int $level, int|string|null $user_id, int|string|null $chat_id)
+Level::setLevel(string|int $level, int|string|null $user_id, int|string|null $chat_id)
 
 // Helper
 setLevel()
@@ -154,7 +154,7 @@ setLevel()
 * Remove User Level
 
 ```php
-Role::removeLevel(int|string|null $user_id, int|string|null $chat_id)
+Level::removeLevel(int|string|null $user_id, int|string|null $chat_id)
 
 // Helper
 removeLevel()

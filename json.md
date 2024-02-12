@@ -1,16 +1,5 @@
 # Json
 
-### Install Dependency
-* Install Eloquent
-```bash
-php laragram get:eloquent
-```
-* Remove Eloquent
-```bash
-php laragram remove:eloquent
-```
----
-
 ### Query
 * Create an instance of Database Model:
 

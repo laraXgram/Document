@@ -47,10 +47,9 @@ composer create-project laraxgram/laragram:v1.10.x-dev@dev my-bot
 
 ---
 ### [Databases](https://github.com/laraXgram/Document/blob/v1.10/databases.md)
-- MySql
-    - [Laravel Eloquent (recommended & default)](https://github.com/laraXgram/Document/blob/v1.10/eloquent.md)
-        - Model
-        - Migrations
+- [Laravel Eloquent (recommended & default)](https://github.com/laraXgram/Document/blob/v1.10/eloquent.md)
+    - Model
+    - Migrations
 - [Redis](https://github.com/laraXgram/Document/blob/v1.10/redis.md)
 - [Json (exclusive)](https://github.com/laraXgram/Document/blob/v1.10/json.md)
     - Model
